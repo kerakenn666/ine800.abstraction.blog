@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ine800.abstraction.blog/sitemap.xml
